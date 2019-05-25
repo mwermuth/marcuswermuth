@@ -32,6 +32,10 @@ article a {
     color: $red !important;
 }
 
+.prose img {
+    max-width: 100% !important;
+}
+
 // Import sass partials (used in all themes)
 @import
         "variables",
