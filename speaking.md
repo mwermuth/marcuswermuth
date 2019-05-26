@@ -4,7 +4,7 @@ title: Speaking
 permalink: /speaking/
 vimeoId: 292723588
 vimeoId2: 300041415
-youtubeId: SmQpggrsSdk
+youtubeId: WrlOEWwVHrQ
 ---
 ## Speaking Gigs in 2019
 - Building product in a fully distributed company @ Product+UX Meetup in Munich, Germany - January 2019
@@ -22,9 +22,7 @@ youtubeId: SmQpggrsSdk
 
 ## Past Video Recordings
 
-{% include vimeoPlayer.html id=page.vimeoId2 %}
+| {% include vimeoPlayer.html id=page.vimeoId2 %} | {% include vimeoPlayer.html id=page.vimeoId %} |
 
-{% include vimeoPlayer.html id=page.vimeoId %}
-
-{% include youtubePlayer.html id=page.youtubeId %}
+| {% include youtubePlayer.html id=page.youtubeId %} | |
 
