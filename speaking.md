@@ -2,17 +2,23 @@
 layout: page
 title: Speaking
 permalink: /speaking/
+vimeoId: 292723588
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+## Talks in 2019
+- Building product in a fully distributed company @ Product+UX Meetup in Munich, Germany - January 2019
+- How I’ve built an empowered team of fully distributed teammates @ Remote-How Meetup in Berlin, Germany - February 2019
+- How I’ve built an empowered team of fully distributed teammates @ GrowRemote in Sligo, Ireland - April 2019
+- How I’ve built an empowered team of fully distributed teammates @ WeAreDevelopers in Berlin, Germany - June 2019
+- Mobile + Web: A Love/Hate Relationship @ MobileOne in Paris, France - November 2019
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+## Talks in 2018
+- Building Mobile Products the Happy Way @ AppDevCon in Amsterdam, Netherlands - March 2018
+- Building Mobile Products the Happy Way @ WeAreDevelopers in Vienna, Austria - June 2018
+- Building Mobile Products the Happy Way @ droidcon in Berlin, Germany - June 2018
+- From Engineer to Manager - A personal (remote) journey @ NSSpain in Logroo, Spain - September 2018
+- How to climb a virtual ladder: Career Growth in a Remote Role @ NomadCity in Las Palmas, Gran Canaria - November 2018
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
+{% include vimeoPlayer.html id=page.vimeoId %}
 
 [jekyll-organization]: https://github.com/jekyll
