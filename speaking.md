@@ -22,7 +22,9 @@ youtubeId: WrlOEWwVHrQ
 
 ## Past Video Recordings
 
-{% include vimeoPlayer.html id=page.vimeoId2 %} {% include vimeoPlayer.html id=page.vimeoId %}
-
+{% include vimeoPlayer.html id=page.vimeoId2 %}
+<br>
+{% include vimeoPlayer.html id=page.vimeoId %}
+<br>
 {% include youtubePlayer.html id=page.youtubeId %}
 
