@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Links
-permalink: /links/
+title: Fresh Links
+permalink: /fresh-links/
 ---
 {% assign linksByYearMonthDay = site.links | group_by_exp:"link", "link.date | date: '%B %d, %Y'"  %}
 {% for yearMonthDay in linksByYearMonthDay %}
