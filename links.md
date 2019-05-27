@@ -4,7 +4,6 @@ title: Links
 permalink: /links/
 ---
 {% for item in site.links %}
-  <h2>{{ item.title }}</h2>
+  <a href="{{ item.link }}"><b>{{ item.title }}</b></a>
   <p>{{ item.description }}</p>
-  <p><a href="{{ item.url }}">{{ item.title }}</a></p>
 {% endfor %}
