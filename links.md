@@ -1,3 +1,8 @@
+---
+layout: page
+title: Links
+permalink: /links/
+---
 {% for item in site.links %}
   <h2>{{ item.title }}</h2>
   <p>{{ item.description }}</p>
