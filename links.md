@@ -3,16 +3,15 @@ layout: page
 title: Links
 permalink: /links/
 ---
-{% for item in site.links %}
-    {% capture day %}{{ item.date | date: '%m%d%Y' }}{% endcapture %}
-    {% capture nday %}{{ item.next.date | date: '%m%d%Y' }}{% endcapture %}
-
-    {% if day != nday %}
-        <h5 class="date">{{ item.date | date: "%A, %B %e, %Y" }}</h5>
-    {% endif %}
-    <a href="{{ item.link }}"><b>{{ item.title }}</b></a><br/>
-    {{ item.description }}
-    <br/>
-    <hr>
+{% assign linksByYearMonth = site.links | group_by_exp:"link", "link.date | date: '%Y %b'"  %}
+{% for yearMonth in linksByYearMonth %}
+  <h3>{{ yearMonth.name }}</h3>
+    <ul>
+      {% for item in yearMonth.items %}
+          <li><a href="{{ item.link }}"><b>{{ item.title }}</b></a><br/>
+          {{ item.description }}
+          </li>
+      {% endfor %}
+    </ul>
 {% endfor %}
 
