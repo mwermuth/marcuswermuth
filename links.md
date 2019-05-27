@@ -4,7 +4,6 @@ title: Links
 permalink: /links/
 ---
 {% for item in site.links %}
-
     {% capture day %}{{ post.date | date: '%m%d%Y' }}{% endcapture %}
     {% capture nday %}{{ post.next.date | date: '%m%d%Y' }}{% endcapture %}
 
@@ -15,6 +14,5 @@ permalink: /links/
     {{ item.description }}
     <br/>
     <hr>
-
 {% endfor %}
 
