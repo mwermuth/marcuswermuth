@@ -56,6 +56,15 @@ article a {
   height: 100%;
 }
 
+// Convertkit CSS
+.newsletter {
+    background-color: lightgray;
+}
+
+.formkit-form[data-uid="9c54134bb2"][min-width~="700"] [data-style="clean"] {
+    padding: 0px !important;
+}
+
 // Import sass partials (used in all themes)
 @import
         "variables",
