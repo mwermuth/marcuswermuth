@@ -8,8 +8,9 @@ permalink: /links/
   <h3>{{ yearMonthDay.name }}</h3>
   <ul>
   {% for item in yearMonthDay.items %}
-    <li><a href="{{ item.link }}"><b>{{ item.title }}</b></a><br/>
-      {{ item.description }}</li>
+    <a href="{{ item.link }}"><b>{{ item.title }}</b></a><br/>
+    {{ item.description }}
+    <br/>  
   {% endfor %}
   </ul>
 {% endfor %}
