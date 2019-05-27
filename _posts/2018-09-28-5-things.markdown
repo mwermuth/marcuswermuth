@@ -17,9 +17,9 @@ I thought I’d take the chance to return the favour by writing about **the five
 I know this is a really tricky one: to stop doing what you’ve been doing for the past several years, and what also ultimately got you to this point in your career.
 Here’s the perspective that I needed to embrace:
 
-<br\>
+
 **Becoming a manager is not a promotion, it is a career change.**
-<br\>
+
 
 Viewing it this way, change is normalized. In my case, I realized that, after a while, coding became a distraction for me. At the beginning of this shift, I was still shipping features and bug fixes while also doing 1:1s with the team on a weekly basis. I couldn’t fully concentrate on one or the other, and that resulted in me doing a bad job in both areas. Both areas are important, but you have to choose one. In my case, I chose the team, and not the code.
 
@@ -118,6 +118,7 @@ But now as a manager all I had was this:
 As you can see in the screenshot above, your calendar automatically fills up, and at the end of a day, you have meetings to show, not features, bug fixes, blog posts, etc. This was pretty hard for me, I didn’t know if I was productive in a day or not. I had nothing to measure it with, until I realized that my job now, is to make the team work, to chat to people and resolve problems and help the team to flourish. The impact of your work as a manager, is not immediately visible, it’ll play out over the long run.
 
 Having patience and trust is key, when shifting jobs from maker to manager. Feel comfortable with what you do. If your team is doing great, you are doing a great job.
+
 ---- 
 ## Over to you
 
