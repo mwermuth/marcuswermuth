@@ -8,7 +8,7 @@ permalink: /fresh-links/
   <h3>{{ yearMonthDay.name }}</h3>
   {% for item in yearMonthDay.items %}
   <a href="{{ item.link }}"><b>{{ item.title }}</b></a><br/>
-  &emsp;<i>{{ item.content }}</i>
+  &emsp;<i>{{ item.body }}</i>
   <br/>  
   {% endfor %}
 {% endfor %}
