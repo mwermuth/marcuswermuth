@@ -7,7 +7,7 @@ This is where I write.
 
 When I am not writing, I work as the Mobile Lead at [Buffer][buffer]. We are a fully remote company - managing across timezones and remote work are in my day to day. I love thinking about how to work better together, especially as the role of the manager evolves with remote work. 
 
-I also love coffee - really love it!
+I also **love coffee** - really love it!
 
 If you find my writing useful, tell me about it and reach out. 
 
@@ -19,7 +19,7 @@ If you are interested in speaking, the Speaking page is a good place to start. O
 - Site-Template: [Swiss][swiss] by broccolini
 - I mostly write and publish from my iPad
 
-[buffer](https://buffer.com)
-[netlify](http://netlify.com)
-[jekyll](https://jekyllrb.com)
-[swiss](https://github.com/broccolini/swiss)
+[buffer]: https://buffer.com
+[netlify]: http://netlify.com
+[jekyll]: https://jekyllrb.com
+[swiss]: https://github.com/broccolini/swiss
