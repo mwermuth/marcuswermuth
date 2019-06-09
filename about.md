@@ -19,7 +19,7 @@ If you are interested in speaking, the Speaking page is a good place to start. O
 - Site-Template: [Swiss][swiss] by broccolini
 - I mostly write and publish from my iPad
 
-Feel free to reach out to me:
+### Feel free to reach out to me:
 - send me an [Email][email]
 - follow me on [Twitter][twitter]
 - connect with me on [LinkedIn][linkedin]
