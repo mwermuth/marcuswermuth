@@ -16,7 +16,7 @@
 title: Hey my name is Marcus.
 email: hello@marcuswermuth.com
 description: >- # this means to ignore newlines until "baseurl:"
-  I'am currently the Mobile Lead at Buffer and focus on building & managing great remote teams.
+  I am an Engineering Manager at Buffer and focus on building & managing great remote teams.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://marcuswermuth.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: mwermuth
