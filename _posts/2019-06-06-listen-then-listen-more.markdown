@@ -4,7 +4,7 @@ title:  "Listen, then listen more"
 date:   2019-06-06 09:23:00 +0200
 categories: leadership management
 ---
-> „The hearing that is only in the ears is one thing. The hearing of the understanding is another.  But the hearing of the spirit is not limited to any one faculty, to the ear, or to the mind. Hence  it demands the emptiness of all the faculties. And when the faculties are empty, then the whole being listens. There is then a direct grasp of what is right there before you that can never be heard with the ear or understood with the mind." - Philosopher Chuang-Tzu
+> „The hearing that is only in the ears is one thing. The hearing of the understanding is another.  But the hearing of the spirit is not limited to any one faculty, to the ear, or to the mind. Hence  it demands the emptiness of all the faculties. And when the faculties are empty, then the whole being listens. There is then a direct grasp of what is right there before you that can never be heard with the ear or understood with the mind."  -- <cite>Philosopher Chuang-Tzu</cite>
 
 Recently I have been talking to a bunch of people, especially engineers, who are getting interested in the area of Engineering Management. The question I most often get asked is „What does an EM do?". 
 I feel in two parts about this - on one side I am getting excited to answer this, as I am so passionate about this topic - on the other side I think „Oh ok wow, either they did not have a good manager, or none at all". With this post, I wanted to share one of the biggest learnings for me on this journey. It will also hopefully show and bring a bit more light into what a Manager nowadays actually does.
