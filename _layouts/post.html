@@ -7,7 +7,7 @@ layout: default
     <p class="bold h4">
       <time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">{{ page.date | date: "%b %-d, %Y" }}</time><br/>
     </p>
-    <span class="mb-3 py-2 bold"><i>Reading Time: {{ content | reading_time_as_i }}</i></span>
+    <span class="mb-3 bold reading-time"><i>Reading Time: {{ content | reading_time_as_i }}</i></span>
   </div>
 
   <div class="prose" itemprop="articleBody">
