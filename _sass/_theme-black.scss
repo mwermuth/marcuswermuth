@@ -44,6 +44,24 @@ a span {
   color: black;
 }
 
+.newsletter::before {
+  content: "";
+  display: block;
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  z-index: -2;
+  opacity: 0.2;
+  background-image: url('../assets/book-bg.jpg');
+  -ms-background-size: cover;
+  -o-background-size: cover;
+  -moz-background-size: cover;
+  -webkit-background-size: cover;
+  background-size: cover;
+}
+
 .embed-container {
   position: relative;
   padding-bottom: 56.25%;
@@ -62,7 +80,9 @@ a span {
 
 // Convertkit CSS
 .newsletter {
-    background-color: lightgray;
+  display: block;
+  position: relative;
+    //background-color: lightgray;
 }
 
 .formkit-form[data-uid="9c54134bb2"][min-width~="700"] [data-style="clean"] {
