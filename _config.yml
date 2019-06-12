@@ -30,6 +30,7 @@ markdown: kramdown
 theme: jekyll-swiss
 plugins:
   - jekyll-feed
+  - jekyll-time-to-read
   
 collections:
   links:
