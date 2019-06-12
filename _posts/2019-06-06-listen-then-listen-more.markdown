@@ -57,7 +57,7 @@ For example:
 
 Just having that list written down here, is a big help for me. Whenever I want to go for one now, I try to stop and reflect if I can answer in a better way. I still use some of them here and there, but getting better and working on yourself is a journey.
 
-> "In spite of all similarities, every living situation has, like a newborn child, a new face, that has never been before and will never come again. It demands of you a reaction that cannot be prepared beforehand. It demands nothing of what is past. It demands presence, responsibility; it demands you." - Martin Buber
+> "In spite of all similarities, every living situation has, like a newborn child, a new face, that has never been before and will never come again. It demands of you a reaction that cannot be prepared beforehand. It demands nothing of what is past. It demands presence, responsibility; it demands you." -- <cite>Martin Buber</cite>
 
 ### Three stages
 The more I learned about it, and the more I started to actively listen and work on my communication, I noticed that it kind of came in phases. In my case I went through the following 3 stages:
