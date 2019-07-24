@@ -9,7 +9,7 @@ categories: leadership remotework
 
 In my first series I wanted to talk about what it means to be a leader in a distributed team. Leadership is not something only used by managers. At Buffer everyone should have a certain kind of Leadership skill. [I really loved how Katie (VP of Engineering at Buffer) put it](https://marcusblankenship.com/how-buffer-com-develops-engineering-leadership-skills-from-day-1-with-katie-womersley/): 
 
-*I would say that, ideally, in an organization everybody is a leader. Leadership is something that you embody in the way you take ownership of your work, the way you go about your tasks, the way you engage with your peers, with people in the organization beyond your team.*
+*"I would say that, ideally, in an organization everybody is a leader. Leadership is something that you embody in the way you take ownership of your work, the way you go about your tasks, the way you engage with your peers, with people in the organization beyond your team."*
 
 In addition to that I also think similar to Katie that leadership is a skill you can learn. I would also say that the more you grow in your role or job the more leadership skills will show up.
 
