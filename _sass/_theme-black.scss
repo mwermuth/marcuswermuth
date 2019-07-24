@@ -40,7 +40,20 @@ article a {
 }
 
 .prose hr {
-    width: 83.3333333333%;
+    border: none;
+    height: 1px;
+    width: 83.3333333333%; 
+    /* Set the hr color */
+    color: $black; /* old IE */
+    background-color: $black; /* Modern Browsers */
+}
+
+hr {
+    border: none;
+    height: 1px;
+    /* Set the hr color */
+    color: $black; /* old IE */
+    background-color: $black; /* Modern Browsers */
 }
 
 a span {
