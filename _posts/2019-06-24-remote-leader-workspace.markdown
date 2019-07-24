@@ -1,6 +1,7 @@
 ---
 layout: post
-title:  "Be an effective leader in a remote team: Setup your Working Routine"
+title:  "Be an effective leader in a remote team"
+subtitle: "Setup your Working Routine"
 date:   2019-06-24 10:30:00 +0200
 categories: leadership remotework
 ---
