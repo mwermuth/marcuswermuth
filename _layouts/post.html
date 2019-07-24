@@ -3,7 +3,7 @@ layout: default
 ---
 <article class="container px-2 mx-auto mb4" itemscope itemtype="http://schema.org/BlogPosting">
   <h1 class="h0 col-12 sm-width-full mt-3 inline-block" itemprop="name headline">{{ page.title }}</h1>
-  <h2 class="h2 col-12 sm-width-full mb-1 inline-block text-accent">{{ page.subtitle }}</h2>
+  <h2 class="col-12 sm-width-full mb-2 inline-block text-accent">{{ page.subtitle }}</h2>
   <div class="col-4 sm-width-full mt-1 border-top-thin ">
     <p class="bold h4">
       <time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">{{ page.date | date: "%b %-d, %Y" }}</time><br/>

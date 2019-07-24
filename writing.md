@@ -14,9 +14,9 @@ permalink: /writing/
            {% assign myDate = currentDate %}
        {% endif %}
        {% if post.subtitle.blank? %}
-              <li><a href="{{ post.url }}"><span><i>{{ post.date | date: "%B %-d, %Y" }}</i></span> - {{ post.title }} - {{ post.subtitle }}</a></li>
-       {% else %}
               <li><a href="{{ post.url }}"><span><i>{{ post.date | date: "%B %-d, %Y" }}</i></span> - {{ post.title }}</a></li>
+       {% else %}
+              <li><a href="{{ post.url }}"><span><i>{{ post.date | date: "%B %-d, %Y" }}</i></span> - {{ post.title }} - {{ post.subtitle }}</a></li>
        {% endif %}
        {% if forloop.last %}</ul>{% endif %}
    {% endfor %}
