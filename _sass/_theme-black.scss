@@ -46,7 +46,8 @@ article a {
     /* Set the hr color */
     color: $black; /* old IE */
     background-color: $black; /* Modern Browsers */
-    margin-bottom: $spacer-2;
+    margin-bottom: 8px;
+    margin-top: 8px;
 }
 
 hr {
@@ -55,7 +56,8 @@ hr {
     /* Set the hr color */
     color: $black; /* old IE */
     background-color: $black; /* Modern Browsers */
-    margin-bottom: $spacer-2;
+    margin-bottom: 8px;
+    margin-top: 8px;
 }
 
 a span {
