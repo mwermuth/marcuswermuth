@@ -8,7 +8,7 @@ categories: leadership remotework
 ![Source: Photo by Nathan Riley on Unsplash](/assets/desk.jpeg)
 
 In my first series I wanted to talk about what it means to be a leader in a distributed team. Leadership is not something only used by managers. At Buffer everyone should have a certain kind of Leadership skill. I really loved how Katie (VP of Engineering at Buffer) put it: 
-::I would say that, ideally, in an organization everybody is a leader. Leadership is something that you embody in the way you take ownership of your work, the way you go about your tasks, the way you engage with your peers, with people in the organization beyond your team.
+*I would say that, ideally, in an organization everybody is a leader. Leadership is something that you embody in the way you take ownership of your work, the way you go about your tasks, the way you engage with your peers, with people in the organization beyond your team.*
 
 In addition to that I also think similar to Katie that leadership is a skill you can learn. I would also say that the more you grow in your role or job the more leadership skills will show up.
 
@@ -26,26 +26,27 @@ Not everyone can of course have a separate room, due to smaller living-spaces. A
 Another option is also to switch work locations once in a while. There are many more reasons why you should do that at least once a week (we will talk about this in a future blog post in this series), but having a change of scenery is one of them. You are fed up with sitting at your kitchen table, and you don‘t have space for a dedicated office corner? Just go to the coffee shop around the corner, or book a daily spot in a co-working space. 
 There are a lot of different opportunities out there. If your city doesn’t have a co-working space, it‘ll definitely have a coffee shop. Working out of a coffee shop is probably my favorite and most of the times let’s me even feel more productive than at home.
 
-**Use a spare room as an office.**
-**If not possible create a "office" corner, or work from a co-working space.**
-**Prevent to work in areas where you normally do fun and free time stuff.**
-**Change work location once a week (coffee shops, co-working spaces,...).**
-**Buffer helps with [co-working stipends](https://open.buffer.com/benefits-remote-company/ "co-working stipends") and [coffee shop vouchers](https://open.buffer.com/coffee-shop-working/ "coffee shop vouchers")**
+- **Use a spare room as an office.**
+- **If not possible create a "office" corner, or work from a co-working space.**
+- **Prevent to work in areas where you normally do fun and free time stuff.**
+- **Change work location once a week (coffee shops, co-working spaces,...).**
+- **Buffer helps with [co-working stipends](https://open.buffer.com/benefits-remote-company/ "co-working stipends") and [coffee shop vouchers](https://open.buffer.com/coffee-shop-working/ "coffee shop vouchers")**
 
 ## Invest in your office setup
 Being a remote worker you adapt to a lot of different working situations. Having bad chairs in coffee shops, maybe working outside on a bench, etc. That doesn’t mean though that we have to not care about our workspace. Whether you work from a co-working space or from home, it is important to have a good setup. Don’t go for the cheapest options when buying or choosing a chair for example. You will sit in there for the most of your work life, so choose wisely (I am sitting on a *[Steelcase Gesture](https://www.steelcase.com/products/office-chairs/gesture/ "Steelcase Gesture")* - highly recommend it). Choose a great desk, and make your desk look like you want it to. Being on your own, and not in an office means that you can make your space the way you want it to be - and especially the way you feel most productive. 
 Just a couple of months ago I decided to put some plans in my office and even one on my desk! A real game changer, having something green in your viewing field. If you are not a plant person, but prefer something else, do that. The important point is that you work from a setup that feels great to you. 
 You might ask why this is necessary? And I will tell you that by working from home, almost 90% of the time I want to look and be in a space that feels nice and comfortable. It adds to my energy and how productive I feel. And this ultimately will have an effect on how good of a remote worker and leader you can be!
 
-**Choose the best chair you can afford!**
-**Decorate and make your office feel like it is yours.**
-**Make a [Home Office stipend](https://open.buffer.com/benefits-remote-company/ "home office stipend") available to your employees!**
+- **Choose the best chair you can afford!**
+- **Decorate and make your office feel like it is yours.**
+- **Make a [Home Office stipend](https://open.buffer.com/benefits-remote-company/ "home office stipend") available to your employees!**
 
 ## Morning and Evening Routines
 As a remote worker your commute is often only a couple of meters (or feet), from your bedroom to your office. And as we already said it is quite hard to either get out of the working mode or start to be in working mode. Not having a commute is mostly a very positive thing, be it for the environment and yourself. But it also is a routine, helping you to understand that shortly, you‘ll begin to work. How can we replicate that in a remote work setup?   
 I think the easiest option here is to set up morning and evening routines for oneself. It‘ll help you to learn when it is time to start working and when it is time to finish. Our bodies need those signal points in order to switch in the correct mode. Building habits is all about being consistent and disciplined. What helped me to build them is first I try to keep my routines *simple* and second I use an app called *[Streaks](https://streaksapp.com/ "Streaks")*. Having simple routines won‘t allow for excuses, because it is just easier to do them and having an app helps me to have a tool which keeps me somewhat accountable.
 
 Here is an example of how my morning an evening routines look like:
+
 **My morning routine**
 - 6:30am Waking up after at least 8 hours of sleep
 - 6:40am Showering + Brushing my teeth
@@ -63,8 +64,11 @@ Here is an example of how my morning an evening routines look like:
 ## Kill Distractions outside of work
 You‘ve finally closed the laptop, sat down on your sofa, and suddenly your phone vibrates and a Slack notification pops up. Immediately you are pulled back into work, because you feel that you just have to quickly answer this one message. Scenarios like this happen all the time, not just to remote workers. Even if you work in an office, your phone has at least your emails on it ;) 
 I would highly encourage everyone to setup their devices, so that distractions outside your working time won‘t happen. There are a couple of easy things you can do to help with that:
+
 **Enable Do not Disturb Mode (DnD) on your phone**: I rarely see notifications on my phone after 7pm because of that. With DnD Mode you can choose a time period where no notifications will get through. Certain apps also have a separate DnD mode, like Slack for example. Make use of all of those. The less notifications you receive the better. ([iOS](https://support.apple.com/en-us/HT204321 "iOS Instructions") - [Android](https://support.google.com/android/answer/9069335?hl=en "Android Instructions"))
+
 **Delete Slack from your phone**: This is a more drastic measure, and maybe not everyone wants to got that far. But I would still recommend it when you go on vacation or are on a longer off-time. 
+
 **Move Work/Social Media apps **: Another little hack is to move all work related  apps (and sometimes even social media apps) onto a second or third screen on your phone. That will help you to not see any of it, even if you use your phone in your evenings. Of course it is not failsafe, but better than nothing!
 
 Remember to not only set this up on your phone, but basically on all devices you use while working and on your personal time. Whether its your tablet or computer!
