@@ -5,7 +5,7 @@ subtitle: "Master your Calendar"
 date:   2019-06-31 10:30:00 +0200
 categories: leadership remotework
 ---
-![Source: Photo by Eric Rothermel on Unsplash](#)(/assets/calendar-cover.jpeg)
+![Source: Photo by Eric Rothermel on Unsplash](/assets/calendar-cover.jpeg)
 
 **For new readers:** To get started in this series - [go to the first post](https://marcuswermuth.com/remote-leader-working-routine/ "Go to the first post").
 
@@ -64,7 +64,7 @@ Now that you have your calendar setup and know how to use it effectively, what e
 
 Preventing a lot of context switching can help you get into the right mood for the day, and prepare much more easily. And in general I would highly recommend it. Lara proposes to color code your events in Google Calendar. I did this too, and don’t be afraid to use some great colors, it will only change it for you not for others. This will immediately give you an idea of how your week looks like.
 
-![Source: Screenshot of my Week](#)(/assets/calendar-colors.jpeg)
+![Source: Screenshot of my Week](/assets/calendar-colors.jpeg)
 
 It worked well for me, until recently. I went too far with clustering all my 1:1s in one day - Thursday. It started with a call at 11am, followed by 2 other 1:1s in the afternoon, followed by our Team Sync, plus the last 1:1 after that finishing after 7pm. To add to all of that, Thursday is also the day where most of our All Hands or Town-halls happen. You can understand that at the end of Thursday I was just exhausted. You can ask my wife, but I immediately went into "I can’t talk anymore" mode as soon as I finished. I wasn’t really able to enjoy my Thursday evenings. 
 
