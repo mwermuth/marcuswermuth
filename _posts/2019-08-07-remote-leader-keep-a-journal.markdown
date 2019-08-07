@@ -11,7 +11,7 @@ categories: leadership remotework
 
 **For new readers:** To get started in this series - [go to the first post](https://marcuswermuth.com/remote-leader-working-routine/ "Go to the first post").
 
-In the third post of the series **"Be an effective leader in a remote team"**, I am writing about keeping a journal . 
+In the third post of the series **"Be an effective leader in a remote team"**, I am writing about keeping a journal. 
 
 I would consider myself an introvert. I tend to be shy, quiet and prefer to spend a lot of time thinking and reflecting. Often I end up not being able to share exactly what I think, though. I have this perfect argument or thought played out in my head, but when it’s time to express it in words I end up stuttering and stalling until I just give up. Most of the bigger meetings I was in, I kept to myself, and only shared smaller bits and pieces. 
 
@@ -32,9 +32,9 @@ Paper is also just fast, easier and more flexible. You won’t have any notifica
 
 To satisfy my longing for more tech and great apps, I am using both in conjunction. My notebook is always with me and open in front of me while I work. At the same time I use a ToDo List App to collect task which are further in the future or need more detailed planning and resources around it. I can’t write down "cancel my phone contract next year in May 2020" and keep this task around in my notebook for 10 months. I might not even have the same notebook anymore. This is where I just move it into my electronic brain, to remind me when it is time.
 
-**- go analog for taking notes - writing with a fountain pen is the best**
-**- Handwriting helps you to learn faster and remember things easier**
-**- Combine your notebook with a digital companion to take care of longer running things**
+- **go analog for taking notes - writing with a fountain pen is the best**
+- **Handwriting helps you to learn faster and remember things easier**
+- **Combine your notebook with a digital companion to take care of longer running things**
 
 ## Find a system that works for you
 Keeping a journal and writing in it everyday sounds easy. It doesn’t involve a lot to prepare and you can almost do it everywhere. 
@@ -44,9 +44,9 @@ There are a lot of different systems out there: [Gratitude Journal](https://grea
 The first thing you need to do is build the habit. I won’t spend time here and go into habit building, that would be too much for this post, but check out some of the best books about the topic ([The Power of Habit](https://charlesduhigg.com/the-power-of-habit/), [Atomic Habits](https://jamesclear.com/atomic-habits)). 
 
 What worked for me was:
-**- Keep it always around**
-**- Keep it simple and personal**
-**- Keep it satisfying**
+- **Keep it always around**
+- **Keep it simple and personal**
+- **Keep it satisfying**
 
 And that is what I did. I mixed different things I learned from all the various Journal types and created my own system. That system that worked for me. And I would highly encourage you to do the same. Get inspired but don’t spend time on learning a system to take notes. Get a notebook and a pen and start, do what feels right and natural to you.
 
@@ -62,11 +62,11 @@ I use the journal notes section also to take notes while I am in meetings, any f
 
 The Bucket Section is my favourite part. I use it to write down longer thoughts I have and don’t want to loose, or all my note when reading a book. As Benjamin Franklin said: **"Never read a book without a pen in your hand"**. It is having a tremendous effect on my learnings. First I write my notes in my own words, that means the thought I am writing down becomes immediately "mind". But it also helps with remembering it far easier, than just copy and pasting it in my digital notebook. 
 
-**- Don’t get lost in all the thousand Journal types out there**
-**- Keep it simple and easy, and just start writing down thoughts each day**
-**- get a notebook, and start to make notes each day - no matter what they look like or say**
-**- use your journal to reflect on your past notes and learn from them**
-**- when reading always have your notebook with you and take notes**
+- **don’t get lost in all the thousand Journal types out there**
+- **leep it simple and easy, and just start writing down thoughts each day**
+- **get a notebook, and start to make notes each day - no matter what they look like or say**
+- **use your journal to reflect on your past notes and learn from them**
+- **when reading always have your notebook with you and take notes**
 
 ## What I learned after journaling for 8 weeks
 After investing so much time into my system, did it actually help me? I think it did - yes! The two biggest improvements I’ve seen until now are related to reflection and productivity. 
@@ -79,17 +79,15 @@ It helps me tremendously to prepare for meetings and laying out my thoughts. Som
 
 I also feel less stressed when I know that I’ve noted it down. I know that I will get back to it eventually either today or tomorrow. The sense of having it writen down by hand is so much different for me. Similar to this is the feeling at the end of the day, looking back at your notes from the day and knowing that you did stuff. In our ToDo Apps we often don’t see the todo anymore after it is checked off. When I finish working every evening, looking back in my journal gives me a good sense of "I’ve done stuff today" and at the same time I know that all the things I didn’t get done, while be still there tomorrow. 
 
-**- a journal helps to be more self-aware**
-**- reflection is super helpful to learn more about yourself and how you work**
-**- I started to remember the important learnings from books and articles more easily**
-**- I felt less stressed as I had a way to dump all my thoughts and todos all in my notebook**
+- **a journal helps to be more self-aware**
+- **reflection is super helpful to learn more about yourself and how you work**
+- **I started to remember the important learnings from books and articles more easily**
+- **I felt less stressed as I had a way to dump all my thoughts and todos all in my notebook**
 
 ---- 
 Finishing with a little quote I found in the World Wide Web: **"Documenting little details of your everyday life becomes a celebration of who you are"** (Carolyn V. Hamilton)
 
 I think keeping a journal will help everyone to become a better human and a better leader at work. Start small and don’t get lost in all the different systems. Do what works for you and keep doing it. You’ll start to notice the benefits soon enough.
-
-![Source: Photo by Aaron Burden on Unsplash](/assets/notes-pen.jpeg)
 
 ---- 
 Are you interested in becoming a manager of a distributed team, or in general about management in distributed companies? Please let me know what questions you have and what you find challenging. [Feel free to check out this little survey I set up](https://airtable.com/shrLpPjz637ij4xVk "Survey"). I appreciate anything you can share with me 🙌
