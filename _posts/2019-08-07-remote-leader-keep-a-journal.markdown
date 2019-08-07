@@ -5,8 +5,6 @@ subtitle: "Keep a journal"
 date:   2019-08-07 10:30:00 +0200
 categories: leadership remotework
 ---
-# Keep a Journal
-
 ![Source: My Notebook](/assets/journal-book.jpeg)
 
 **For new readers:** To get started in this series - [go to the first post](https://marcuswermuth.com/remote-leader-working-routine/ "Go to the first post").
