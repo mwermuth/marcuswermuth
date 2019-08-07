@@ -84,3 +84,6 @@ Remember to not only set this up on your phone, but basically on all devices you
 ---- 
 
 I hope that some of those tips will help you to set the foundation for your future as a leader in you next remote team. Of course all of this is relevant to anyone working remotely, but as I mentioned in the beginning even more so for leaders who will act as role models.
+
+----
+Are you interested in becoming a manager of a distributed team, or in general about management in distributed companies? Please let me know what questions you have and what you find challenging. [Feel free to check out this little survey I set up](https://airtable.com/shrLpPjz637ij4xVk "Survey"). I appreciate anything you can share with me 🙌

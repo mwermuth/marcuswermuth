@@ -103,3 +103,6 @@ But of course there are also ways where it doesn‘t really help. It is not the 
 I hope that I was able to share what it means to become a better listener, and that you at least give it a try!
 
 If you have any thoughts, ideas, questions around that topic please don‘t hesitate to reach out to me. I am super happy to chat and learn from other experiences.
+
+---- 
+Are you interested in becoming a manager of a distributed team, or in general about management in distributed companies? Please let me know what questions you have and what you find challenging. [Feel free to check out this little survey I set up](https://airtable.com/shrLpPjz637ij4xVk "Survey"). I appreciate anything you can share with me 🙌
