@@ -2,7 +2,7 @@
 layout: post
 title:  "Be an effective leader in a remote team #2"
 subtitle: "Master your Calendar"
-date:   2019-06-31 10:30:00 +0200
+date:   2019-07-31 10:30:00 +0200
 categories: leadership remotework
 ---
 ![Source: Photo by Eric Rothermel on Unsplash](/assets/calendar-cover.jpeg)
