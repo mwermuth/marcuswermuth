@@ -2,7 +2,7 @@
 layout: post
 title:  "Be an effective leader in a remote team #4"
 subtitle: "Stay curious and keep learning"
-date:   2019-08-014 10:30:00 +0200
+date:   2019-08-14 10:30:00 +0200
 categories: leadership remotework
 ---
 ![Source: Photo by Chase Clark on Unsplash](/assets/curiosity-look.jpeg)
