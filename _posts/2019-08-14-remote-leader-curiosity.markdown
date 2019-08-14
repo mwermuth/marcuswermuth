@@ -72,7 +72,7 @@ Another thing you can do to start a more growth mindset focused culture are [Hac
 ---- 
 Finishing today’s post with my favorite quote from Albert Einstein: **"Life is like riding a bicycle. To keep your balance you must keep moving."**
 
-Whether it is life itself, my work, my career or how I approach remote work - everything is moving forward and I feel it is important to stay curious and being able to adapt. 
+Whether it is life itself, my work, my career or how I approach remote work - everything is moving forward and I feel it is important to stay curious and be adaptable! 
 
 ---- 
 Are you interested in becoming a manager of a distributed team, or in general about management in distributed companies? Please let me know what questions you have and what you find challenging. [Feel free to check out this little survey I set up](https://airtable.com/shrLpPjz637ij4xVk "Survey"). I appreciate anything you can share with me 🙌
