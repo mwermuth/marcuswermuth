@@ -18,6 +18,9 @@ $color-code: $red-small !default;
 $color-nav-link: $red !default;
 $color-primary-link: $red !default;
 
+$h0-mobile: 52px;
+$h0-desktop: 104px;
+
 .font-smoothing {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
@@ -37,7 +40,16 @@ article a {
 }
 
 .prose hr {
-    width: 83.3333333333%;
+    display:block;
+    width: 83.3333333333%; 
+    margin-bottom: 3em !important;
+    margin-top: 3em !important;
+}
+
+hr {
+    display:block;
+    margin-bottom: 3em !important;
+    margin-top: 3em !important;
 }
 
 a span {
