@@ -31,6 +31,8 @@ GEM
       jekyll (>= 3.7, < 5.0)
     jekyll-sass-converter (1.5.2)
       sass (~> 3.4)
+    jekyll-seo-tag (2.6.1)
+      jekyll (>= 3.3, < 5.0)
     jekyll-swiss (1.0.0)
     jekyll-time-to-read (0.1.2)
       jekyll
@@ -64,6 +66,7 @@ PLATFORMS
 DEPENDENCIES
   jekyll (~> 3.8.5)
   jekyll-feed (~> 0.6)
+  jekyll-seo-tag
   jekyll-swiss
   jekyll-time-to-read
   tzinfo-data

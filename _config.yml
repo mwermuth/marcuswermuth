@@ -13,6 +13,8 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
+author:
+  twitter: mwermuth
 title: Hey my name is Marcus.
 email: hello@marcuswermuth.com
 description: >- # this means to ignore newlines until "baseurl:"
@@ -25,12 +27,22 @@ linkedin_username:  mwermuth
 social_username: mwermuth_
 google_analytics: UA-140826476-1
 
+twitter:
+  username: mwermuth
+  card: summary
+social:
+  name: Marcus Wermuth
+  links:
+    - https://twitter.com/mwermuth
+    - https://www.linkedin.com/in/mwermuth
+
 # Build settings
 markdown: kramdown
 theme: jekyll-swiss
 plugins:
   - jekyll-feed
   - jekyll-time-to-read
+  - jekyll-seo-tag
   
 collections:
   links:
