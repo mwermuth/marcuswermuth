@@ -2,7 +2,7 @@
 layout: post
 title:  "Be an effective leader in a remote team #5"
 subtitle: "Over-Communication does not exist"
-date:   2019-08-21 11:30:00 +0200
+date:   2019-08-21 08:30:00 +0200
 categories: leadership remotework
 ---
 ![Source: Photo by Pavan Trikutam on Unsplash](/assets/phone-communication.jpeg)
