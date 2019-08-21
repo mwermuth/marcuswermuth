@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Be an effective leader in a remote team #3"
-subtitle: "Keep a journal"
+subtitle: "Keep a Journal"
 date:   2019-08-07 10:30:00 +0200
 categories: leadership remotework
 ---
