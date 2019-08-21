@@ -18,6 +18,7 @@ No matter the situation: whether we are at work talking to our team, or the whol
 What is the secret behind great communication then, and how can you do this in your day to day work?
 
 ---- 
+
 ## Communication is hard
 We know that communication is important, that is shown also in the [State Of Remote Work 2019](https://buffer.com/state-of-remote-work-2019) we did at Buffer. Communication is in the Top 3 of things we remote workers struggle with. Why is it that we do struggle with it so much?
 
