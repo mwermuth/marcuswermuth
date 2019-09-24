@@ -5,7 +5,7 @@ subtitle: "You are not alone"
 date:   2019-09-04 10:30:00 +0200
 categories: leadership remotework
 ---
-![Source: Photo by Perry Grone on Unsplash](/assets/leader-not-alone.jpeg)
+![Source: Photo by Perry Grone on Unsplash](#)(/assets/leader-not-alone.jpeg)
 
 In the fifth post of the series **"Be an effective leader in a remote team"**,  I wanted to talk about the effect remote work can have on you and your team. 
 
